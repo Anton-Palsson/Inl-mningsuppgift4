@@ -1,1 +1,6 @@
-Anton Pålsson 
+Anton Pålsson
+Länkar till videos:
+https://drive.google.com/file/d/1CkL_2Z3KXlo7U5w9xoX5OUGyAdjOJ706/view?usp=sharing
+https://drive.google.com/file/d/1nNh1XCON96IdkXTWU0bJPN2zcqeuAn8v/view?usp=sharing
+https://drive.google.com/file/d/1UH-yIDHDc4nPv590sl41lBghNdlO8hGl/view?usp=sharing
+
