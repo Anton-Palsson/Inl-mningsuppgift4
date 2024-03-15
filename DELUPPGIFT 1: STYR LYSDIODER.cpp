@@ -1,3 +1,9 @@
+
+
+//STRÖM BERKÄKNINGAR, I = (5V - 1.8V) / 220Ω = 14.5mA För en grön lysdiod: I = (5V - 2.1V) / 220Ω = 13.2mA För en blå lysdiod: I = (5V - 3.3V) / 220Ω = 7.7mA För Röd lysdiod
+
+
+
 void setup() {
  pinMode(13, OUTPUT);
  pinMode(12, OUTPUT);
